@@ -12,7 +12,7 @@ img {
 }
 
 h1 {
-	color: rebeccapurple;
+	color: red;
 }
 
 p {
@@ -21,7 +21,7 @@ p {
 }
 
 button {
-	background-color: rebeccapurple;
+	background-color: blue;
 	color: white;
 	font-size: 18px;
 	padding: 20px 30px;
